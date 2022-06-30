@@ -1,5 +1,5 @@
 # TinDog-Website
-## https://graceful-salmiakki-b82c1d.netlify.app
+## https://tin-dog-web-site.netlify.app
 ## Use
 If you want your dog to hook up with other, then this is the right place for you!
 
